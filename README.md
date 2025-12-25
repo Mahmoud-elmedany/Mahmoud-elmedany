@@ -54,7 +54,7 @@ I focus on building backend systems through **personal and academic projects**, 
 * **Backend:** Spring Boot, Spring Security, JPA/Hibernate, .NET
 * **Databases:** MySQL
 * **AI:** Machine Learning & Deep Learning (Foundations)
-* **Other:** Git, GitHub, REST APIs
+* **Other:** Git, GitHub,Docker, REST APIs
 
 ---
 
